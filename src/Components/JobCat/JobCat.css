@@ -1,0 +1,14 @@
+.each-job{
+    display: flex;
+    flex-direction: column;
+    justify-content: left;
+    align-items: start;
+    border: 2px solid cornflowerblue;
+    padding: 20px;
+    border-radius: 10px;
+    background-color: rgb(205, 241, 242);
+}
+.each-job h2{
+    font-size: 40px;
+    color: rgb(123, 72, 5);
+}

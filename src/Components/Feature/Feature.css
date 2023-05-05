@@ -1,0 +1,46 @@
+.feature img{
+    height: 70px;
+}
+.feature{
+    border: 2px solid rgb(28, 208, 214);
+    padding: 5%;
+    border-radius: 15px;
+}
+.feature button{
+    color: rgb(255, 255, 255);
+    background-color: blueviolet;
+    border: 1px solid gray;
+}
+.remote-full{
+    display: flex;
+    gap: 10px;
+}
+.remote-full button{
+    color: blue;
+    background-color: whitesmoke;
+}
+.loca-salar{
+    display: flex;
+    gap: 15px;
+}
+.loca-salar p{
+    background-color: bisque;
+    padding: 1%;
+    border-radius: 10px;
+}
+.view-details{
+    color: aliceblue;
+    background-color: blueviolet;
+    padding: 2%;
+    border-radius: 10px;
+    margin-top: 20px;
+    text-align: right;
+}
+.view-details:hover{
+    color: rgb(11, 11, 11);
+    background-color: rgb(15, 215, 31);
+    padding: 2%;
+    border-radius: 10px;
+    margin-top: 20px;
+    text-align: right;
+}

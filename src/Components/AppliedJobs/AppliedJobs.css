@@ -1,0 +1,34 @@
+.img-app{
+    height: 60px;
+    width: 100px;
+}
+.everydiv{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 10px;
+    border: 1px solid blueviolet;
+    border-radius: 15px;
+    padding: 3% 5%;
+    margin: 20px;
+    text-align: left;
+    background-color: azure;
+    
+}
+.info-div{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 45px;
+}
+.viewDetails{
+    background-color: green;
+}
+.site-time button{
+    background-color: blueviolet;
+    margin: 0 5px;
+}
+h2{
+    font-size: xx-large;
+    padding: 2%;
+}

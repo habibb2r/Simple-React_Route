@@ -1,0 +1,54 @@
+.home-container{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 50px;
+    height: 90vh;
+}
+.home-desc{
+    display: flex;
+    flex-direction: column;
+    justify-content: center ;
+    align-items: start;
+    text-align: left;
+    gap: 20px;
+    padding-right: 10%
+}
+.home-desc p{
+    color: rgb(159, 156, 153);
+}
+.home-desc button{
+    background-color: blueviolet;
+    padding: 2%;
+}
+.dr-color{
+    color: blue;
+}
+.img-home{
+    height: 450px;
+    padding: 0 5%;
+}
+.job-category-container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    
+}
+.category-section{
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 40px;
+    padding: 5% 3%;
+}
+.job-features{
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 20px;
+    text-align: left;
+    margin-top: 50px;
+    margin-bottom: 30px;
+}
+.show-button{
+    color: gold;
+}
